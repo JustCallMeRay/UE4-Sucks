@@ -1,3 +1,4 @@
 Replace for each loop with for each loop with break and rename to for each loop
 Pushing shortcut key while Variable is held still creates node (eg B while bool is held) 
 Create Switch on float (decides which output based on ranges) 
+When using multiply or divide nodes, use 2 as default 
